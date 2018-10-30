@@ -10,7 +10,6 @@ spring:
     config:
       server:
         git:
-#          uri: https://git.oschina.net/chrywhy/test
           uri: https://github.com/ppa737/spring-boot-test1.git
           searchPaths: helloworldConfig
  #         label: master
