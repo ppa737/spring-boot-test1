@@ -11,8 +11,8 @@ spring:
       server:
         git:
 #          uri: https://git.oschina.net/chrywhy/test
-          uri: https://github.com/ppa737/spring-boot-test.git
-          searchPaths: spring-cloud/helloworldConfig
+          uri: https://github.com/ppa737/spring-boot-test1.git
+          searchPaths: helloworldConfig
  #         label: master
 
   application:
